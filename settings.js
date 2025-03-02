@@ -1,11 +1,11 @@
 const settings = {
-  packname: 'Knight',
+  packname: 'Demon',
   author: 'Bot',
-  botName: "Knight Bot",
+  botName: "Demon Bot",
   botOwner: 'Professor', // Your name
-  ownerNumber: '917023951514', //Your number
+  ownerNumber: '917003780818', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
+  commandMode: "Private",
   description: "This is a bot for managing group commands and automating tasks.",
   version: "1.0.0",
 };
